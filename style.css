@@ -2,3 +2,18 @@ h1 {
   text-align: center;
   color: blue;
 }
+
+button {
+  background-color: pink;
+  display: block;
+  margin: 0 auto;
+  padding: 15px 40px;
+  border: 0;
+}
+
+img {
+  width: 500px;
+  background-color: pink;
+  display: block;
+  margin: 30px auto;
+}
